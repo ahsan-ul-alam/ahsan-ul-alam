@@ -18,8 +18,7 @@ Welcome to my GitHub profile! Here’s a little about me:
   - Frontend frameworks: **React**, **Vue**, **Angular**  
   - Mobile app development: **Flutter**  
 - 📫 How to reach me:  
-  - Email: [ahsan@example.com](mailto:ahsan@example.com)  
-  - LinkedIn: [YourLinkedInProfile](https://www.linkedin.com)  
+  - Email: [ahsanulalam.500@gmail.com](mailto:ahsanulalam.500@gmail.com)  
 
 - ⚡ Fun fact: I thrive on learning new frameworks and enjoy simplifying complex problems with clean, efficient code.  
 
