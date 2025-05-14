@@ -21,7 +21,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 💼 **Professional Experience**  
 - **SPJ Properties Ltd.**  
-- **AR Web Academy**  
+- **AR SOFT BD**  
 - **Skill & Technology Ltd.**  
 - **Soft Spark Solutions**  
 
