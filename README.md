@@ -1,55 +1,98 @@
-## Hi there 👋  
+# 👋 Hi, I'm Ahsan Ul Alam  
 
-I'm **Ahsan Ul Alam**, a versatile developer with hands-on experience across multiple industries and technologies. 🚀  
-Welcome to my GitHub profile! Here’s a little about me:  
+<h3 align="center">🚀 Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
----
-
-### 🛠️ Tech Stack  
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-
----
-### 🌟 About Me  
-
-💼 **Professional Experience**  
-- **SPJ Properties Ltd.**  
-- **AR SOFT BD**  
-- **Skill & Technology Ltd.**  
-- **Soft Spark Solutions**  
-
-🔭 **Current Focus**  
-- Building robust web and mobile applications using cutting-edge technologies.  
-
-🌱 **Learning**  
-- Advanced **Flutter** for cross-platform app development.  
-
-👯 **Looking to Collaborate On**  
-- Projects involving **Laravel**, **React**, or **Flutter**.  
-
-💬 **Ask Me About**  
-- Full-stack development: `HTML`, `CSS`, `JavaScript`, `PHP`, `Laravel`  
-- Frontend frameworks: `React`, `Vue`, `Angular`  
-- Mobile app development: `Flutter`  
-
-📫 **Get In Touch**  
-- 📧 Email: [ahsanulalam.500@gmail.com](mailto:ahsanulalam.500@gmail.com)  
-
-⚡ **Fun Fact**  
-- I thrive on learning new frameworks and enjoy simplifying complex problems with clean, efficient code.  
+<p align="center">
+  <strong>Building scalable, high-performance web & mobile applications</strong><br/>
+  Turning ideas into real-world digital solutions ✨
+</p>
 
 ---
 
-### 🚀 Explore My Work  
+## 🔥 Tech Stack  
 
-Feel free to explore my repositories, connect, or reach out. Let’s build something amazing together! 💻  
+<p align="center">
+
+<!-- Core -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+
+<!-- Mobile -->
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+</p>
 
 ---
 
+## 🌟 About Me  
+
+### 💼 Professional Experience  
+- 🏢 **SPJ Properties Ltd.**  
+- 🏢 **AR SOFT BD**  
+- 🏢 **Skill & Technology Ltd.**  
+- 🏢 **Soft Spark Solutions**  
+
+---
+
+### 🎯 Current Focus  
+🚀 Building **scalable web & mobile applications**  
+⚡ Writing **clean, maintainable & efficient code**  
+
+---
+
+### 🌱 Currently Learning  
+📱 Advanced **Flutter** (Cross-platform app development)  
+
+---
+
+### 🤝 Collaboration  
+💡 Open to working on:  
+- ⚙️ Laravel-based systems  
+- ⚛️ React / Vue applications  
+- 📱 Flutter mobile apps  
+
+---
+
+### 💬 Ask Me About  
+✔️ Full Stack Development  
+✔️ REST API & System Design  
+✔️ Performance Optimization  
+
+**Tech Expertise:**  
+`HTML` • `CSS` • `JavaScript` • `PHP` • `Laravel`  
+`React` • `Nextjs` • `Vue` • `Flutter`  
+
+---
+
+### 📬 Contact Me  
+
+<p align="center">
+  📧 <a href="mailto:ahsanulalam.500@gmail.com"><strong>ahsanulalam.500@gmail.com</strong></a>
+</p>
+
+---
+
+### ⚡ Fun Fact  
+💡 I love turning **complex problems into simple, elegant solutions**  
+🚀 Always exploring new technologies and pushing limits  
+
+---
+
+## 🚀 Let’s Build Something Amazing  
+
+<p align="center">
+  ⭐ Explore my repositories  
+  🤝 Collaborate on exciting projects  
+  💬 Feel free to reach out anytime  
+</p>
+
+---
