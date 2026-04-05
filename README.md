@@ -40,6 +40,8 @@
 - 🏢 **AR SOFT BD**  
 - 🏢 **Skill & Technology Ltd.**  
 - 🏢 **Soft Spark Solutions**  
+- 🏢 **Wazih premium**  
+- 🏢 **Sardar IT**  
 
 ---
 
